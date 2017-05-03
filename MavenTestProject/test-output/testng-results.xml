@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17033" started-at="2017-04-16T16:36:53Z" finished-at="2017-04-16T16:37:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17033" started-at="2017-04-16T16:36:53Z" finished-at="2017-04-16T16:37:10Z">
+      <class name="TestMaven">
+        <test-method status="PASS" signature="init()[pri:0, instance:TestMaven@3e6fa38a]" name="init" is-config="true" duration-ms="0" started-at="2017-04-16T17:36:53Z" finished-at="2017-04-16T17:36:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="gcreddy()[pri:0, instance:TestMaven@3e6fa38a]" name="gcreddy" duration-ms="12968" started-at="2017-04-16T17:36:53Z" finished-at="2017-04-16T17:37:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gcreddy -->
+        <test-method status="PASS" signature="wordpress()[pri:0, instance:TestMaven@3e6fa38a]" name="wordpress" duration-ms="4002" started-at="2017-04-16T17:37:06Z" finished-at="2017-04-16T17:37:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wordpress -->
+        <test-method status="PASS" signature="At()[pri:0, instance:TestMaven@3e6fa38a]" name="At" is-config="true" duration-ms="19" started-at="2017-04-16T17:37:10Z" finished-at="2017-04-16T17:37:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- At -->
+      </class> <!-- TestMaven -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
