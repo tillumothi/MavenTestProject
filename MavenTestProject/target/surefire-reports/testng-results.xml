@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="10419" started-at="2017-05-02T18:12:51Z" finished-at="2017-05-02T18:13:01Z">
+  <suite name="Suite" duration-ms="17276" started-at="2017-05-04T05:01:54Z" finished-at="2017-05-04T05:02:12Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="10419" started-at="2017-05-02T18:12:51Z" finished-at="2017-05-02T18:13:01Z">
+    <test name="Test" duration-ms="17276" started-at="2017-05-04T05:01:54Z" finished-at="2017-05-04T05:02:12Z">
       <class name="maventest.TestMaven">
-        <test-method status="PASS" signature="init()[pri:0, instance:maventest.TestMaven@5d624da6]" name="init" is-config="true" duration-ms="14" started-at="2017-05-02T19:12:51Z" finished-at="2017-05-02T19:12:51Z">
+        <test-method status="PASS" signature="init()[pri:0, instance:maventest.TestMaven@5d624da6]" name="init" is-config="true" duration-ms="12" started-at="2017-05-04T06:01:54Z" finished-at="2017-05-04T06:01:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="gcreddy()[pri:0, instance:maventest.TestMaven@5d624da6]" name="gcreddy" duration-ms="9687" started-at="2017-05-02T19:12:51Z" finished-at="2017-05-02T19:13:01Z">
+        <test-method status="PASS" signature="gcreddy()[pri:0, instance:maventest.TestMaven@5d624da6]" name="gcreddy" duration-ms="10758" started-at="2017-05-04T06:01:55Z" finished-at="2017-05-04T06:02:05Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- gcreddy -->
-        <test-method status="PASS" signature="wordpress()[pri:0, instance:maventest.TestMaven@5d624da6]" name="wordpress" duration-ms="697" started-at="2017-05-02T19:13:01Z" finished-at="2017-05-02T19:13:01Z">
+        <test-method status="PASS" signature="wordpress()[pri:0, instance:maventest.TestMaven@5d624da6]" name="wordpress" duration-ms="6483" started-at="2017-05-04T06:02:05Z" finished-at="2017-05-04T06:02:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- wordpress -->
-        <test-method status="PASS" signature="At()[pri:0, instance:maventest.TestMaven@5d624da6]" name="At" is-config="true" duration-ms="9" started-at="2017-05-02T19:13:01Z" finished-at="2017-05-02T19:13:01Z">
+        <test-method status="PASS" signature="At()[pri:0, instance:maventest.TestMaven@5d624da6]" name="At" is-config="true" duration-ms="11" started-at="2017-05-04T06:02:12Z" finished-at="2017-05-04T06:02:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- At -->
